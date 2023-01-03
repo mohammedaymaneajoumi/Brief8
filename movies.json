@@ -1,0 +1,288 @@
+[
+{
+    "poster":"img/1.jpg",
+    "titreDeFilm":"Interstellar",
+    "réalisateur":"Christopher Nolan",
+    "durée":"2h 49m",
+    "annéeDeProduction":2014,
+    "festivals":[
+        "Top Performer Recognition",
+        "Customer Service Awards"
+    ],
+    "Acteur":[
+        {
+            "nom":"Matthew ",
+            "prénom":"McConaughey",
+            "nationalité":"(Américaine)"
+        },
+        {
+            "nom":"Jessica",
+            "prénom":"Chastain",
+            "nationalité":"(Américaine)"
+        },
+        {
+            "nom":"Timothée",
+            "prénom":"Chalamet",
+            "nationalité":"(Français)"
+        }
+    ]
+},
+{
+    "poster":"img/2.jpg",
+    "titreDeFilm":"Avatar",
+    "réalisateur":"James Cameron",
+    "durée":"2h 41m",
+    "annéeDeProduction":2009,
+    "festivals":[
+        "Above and Beyond Recognition",
+        "Peer-to-Peer Recognition",
+        "Perfect Attendance Programs"
+    ],
+    "Acteur":[
+        {
+            "noms":"Zoe ",
+            "prénom":"Saldana",
+            "nationalité":"(Dominicaine)"
+        },
+        {
+            "nom":"Sam",
+            "prénom":"Worthington",
+            "nationalité":"(Australien)"
+        },
+        {
+            "nom":"Sigourney ",
+            "prénom":"Weaver",
+            "nationalité":"(Américaine)"
+        }
+    ]
+},
+{
+    "poster":"img/3.jpg",
+    "titreDeFilm":"Pinocchio",
+    "réalisateur":" Guillermo del Toro",
+    "durée":"1h 57m",
+    "annéeDeProduction":2022,
+    "festivals":[
+        "Sales Incentives",
+        "Welcome Aboard Recognition"
+    ],
+    "Acteur":[
+        {
+            "nom":"Gregory",
+            "prénom":"Mann",
+            "nationalité":"(Américaine)"
+        },
+        {
+            "nom":"Ewan",
+            "prénom":"McGregor",
+            "nationalité":"(Britannique)"
+        },
+        {
+            "nom":"Finn",
+            "prénom":"Wolfhard",
+            "nationalité":"(Canadienne)"
+        }
+    ]
+},
+{
+    "poster":"img/4.jpg",
+    "titreDeFilm":"Jumanji: Next Level ",
+    "réalisateur":"Jake Kasdan",
+    "durée":"2h 3m",
+    "annéeDeProduction":2019,
+    "festivals":[
+        "Safety Awards",
+        "Retirement Awards",
+        "Volunteer Awards"
+    ],
+    "Acteur":[
+        {
+            "nom":"Dwayne",
+            "prénom":"Johnson",
+            "nationalité":"(Américaine)"
+        },
+        {
+            "nom":"Kevin",
+            "prénom":"Hart",
+            "nationalité":"(Américaine)"
+        },
+        {
+            "nom":"Karen",
+            "prénom":"Gillan",
+            "nationalité":"(Britannique)"
+        }
+    ]
+},
+{
+    "poster":"img/5.jpg",
+    "titreDeFilm":"Bird Box",
+    "réalisateur":"Susanne Bier",
+    "durée":"2h 4m",
+    "LannéeDeProduction":2018 ,
+    "festivals":[
+        "Team Recognition",
+        "Customer Service Awards"
+    ],
+    "Acteur":[
+        {
+            "nom":"Sandra",
+            "prénom":"Bullock",
+            "nationalité":"(Allemande)"
+        },
+        {
+            "nom":"Trevante",
+            "prénom":"Rhodes",
+            "nationalité":"(Américaine)"
+        },
+        {
+            "nom":"John",
+            "prénom":"Malkovich",
+            "nationalité":"(Américaine)"
+        }
+    ]
+},
+{
+    "poster":"img/6.jpg",
+    "titreDeFilm":"Inception",
+    "réalisateur":"Christopher Nolan",
+    "durée":"2h 28m",
+    "annéeDeProduction":2010,
+    "festivals":[
+        "Top Performer Recognition",
+        "Customer Service Awards"
+    ],
+    "Acteur":[
+        {
+            "prénom":"Leonardo",
+            "nom":"DiCaprio",
+            "nationalité":"(Américaine)"
+        },
+        {
+            "prénom":"Joseph",
+            "nom":"Gordon",
+            "nationalité":"(Américaine)"
+        },
+        {
+            "prénom":"Elliot",
+            "nom":"Page",
+            "nationalité":"(Canadienne)"
+        }
+    ]
+},
+{
+    "poster":"img/7.png",
+    "titreDeFilm":"Get Out",
+    "réalisateur":"Jordan Peele",
+    "durée":"1h 44m",
+    "annéeDeProduction":2017,
+    "festivals":[
+        "Above and Beyond Recognition",
+        "Peer-to-Peer Recognition",
+        "Perfect Attendance Programs"
+    ],
+    "Acteur":[
+        {
+            "prénom":"Daniel",
+            "nom":"Kaluuya",
+            "nationalité":"(Britannique)"
+        },
+        {
+            "prénom":"Jessica",
+            "nom":"Chastain",
+            "nationalité":"(Américaine)"
+        },
+        {
+            "prénom":"Timothée",
+            "nom":"Chalamet",
+            "nationalité":"(Français)"
+        }
+    ]
+},
+{
+    "poster":"img/8.jpg",
+    "titreDeFilm":"Forrest Gump",
+    "réalisateur":"Robert Zemeckis",
+    "durée":"2h 22m",
+    "annéeDeProduction":1994,
+    "festivals":[
+        "Sales Incentives",
+        "Welcome Aboard Recognition"    
+    ],
+    "Acteur":[
+        {
+            "prénom":"Tom",
+            "nom":"Hanks",
+            "nationalité":"(Américaine)"
+        },
+        {
+            "prénom":"Robin",
+            "nom":"Wright",
+            "nationalité":"(Américaine)"
+        },
+        {
+            "prénom":"Gary",
+            "nom":"Sinise",
+            "nationalité":"(Américaine)"
+        }
+    ]
+},
+{
+    "poster":"img/9.jpg",
+    "titreDeFilm":"Avengers: Endgame",
+    "réalisateur":" Anthony Russo, Joe Russo",
+    "durée":"3h 2m",
+    "annéeDeProduction":2019,
+    "festivals":[
+        "Safety Awards",
+        "Retirement Awards",
+        "Volunteer Awards"   
+    ],
+    "Acteur":[
+        {
+            "prénom":"Robert",
+            "nom":"Downey",
+            "nationalité":"(Américaine)"
+        },
+        {
+            "prénom":"Chris",
+            "nom":"Evans",
+            "nationalité":"(Américaine)"
+        },
+        {
+            "prénom":"Chris",
+            "nom":"Hemsworth",
+            "nationalité":"(Australien)"
+        }
+    ]
+},
+{
+    "poster":"img/10.jpg",
+    "titreDeFilm":"Logan",
+    "réalisateur":"James Mangold",
+    "durée":"2h 17m",
+    "LannéeDeProduction":2017,
+    "festivals":[
+        "Top Performer Recognition",
+        "Customer Service Awards"   
+    ],
+    "Acteur":[
+        {
+            "prénom":"Hugh",
+            "nom":"Jackman",
+            "nationalité":"(Australien)"
+        },
+        {
+            "prénom":"Patrick",
+            "nom":"Stewart",
+            "nationalité":"(Britannique)"
+        },
+        {
+            "prénom":"Dafne",
+            "nom":"Keen",
+            "nationalité":"(Espagnole)"
+        }
+    ]
+}
+]
+
+

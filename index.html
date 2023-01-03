@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Document</title>
+
+    <!---------css link folder from bootstrap ,files are inside the project folder---------->
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/all.min.css" />
+    <link rel="stylesheet" href="style.css" />
+
+    <!------------------------link Google Fonts----------------------->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500&display=swap"
+        rel="stylesheet" />
+    </head>
+    <body>
+        <!------------------------navbare--------------------------------->
+        <nav class="navbar">
+            <div class="container-fluid p-4">
+                <h1 class="text-success-emphasis">WATCH+</h1>
+                <form class="d-flex" role="search">
+                    <input id="searchIN"
+                    class="form-control me-2"
+                    type="search"
+                    placeholder="Search"
+                    aria-label="Search" />
+                    <button class="btn btn-outline-success" id="btnSearch" type="button">Search</button>
+                </form>
+                
+            </div>
+        </nav>
+
+        <!------------------------select--------------------------->
+        <select
+        id="triTit"
+        class="form-select form-select-lg mb-3"
+        aria-label=".form-select-lg example">
+            <option selected>--Veuillez choisir une option--</option>
+            <option value="1">le titre De Z à A</option>
+            <option value="2">le titre De A à Z</option>
+            <option value="3">la durée De Z à A</option>
+            <option value="4">la durée De A à Z</option>
+            <option value="5">L'année de production De Z à A</option>
+            <option value="6">L'année de production De A à Z</option>
+        </select>
+
+        <!------------------------table -------------------------->
+        <div class="table-responsive-lg">
+            <table class="table text-light">
+                <thead>
+                    <tr>
+                        <th scope="col" class="text-light">#</th>
+                        <th scope="col" class="text-light">le poster</th>
+                        <th scope="col" class="text-light">le titre de film</th>
+                        <th scope="col" class="text-light">le réalisateur</th>
+                        <th scope="col" class="text-light">la durée</th>
+                        <th scope="col" class="text-light">L'année de production</th>
+                        <th scope="col" class="text-light">les Festivals (Une liste)</th>
+                        <th scope="col" class="text-light">les Acteurs (Liste d'objets)</th>
+                    </tr>
+                </thead>
+                <tbody id="tbody" class="text-light">
+                </tbody>
+            </table>
+        </div>
+
+        <!-----------js link folder from same bootstrap ,files are inside the project folder --------->
+        <!---------------------------------jquery is missing-------------------------------------->
+        <script src="js/bootstrap.bundle.min.js"></script>
+        <script src="js/all.min.js"></script>
+        <script src="script.js"></script>
+    </body>
+</html>
